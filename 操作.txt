@@ -1,0 +1,7 @@
+git config --global user.name "381470082"
+git config --global user.email "381470082@qq.com"
+git init
+git add .
+git commit -m "first "
+git remote add origin https://github.com/381470082/js-html-css.git
+git push -u origin master
