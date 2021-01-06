@@ -1,2 +1,2 @@
-# js-html-css
-前端集合开发
+# JQuery
+jQuery实现网页抽奖
